@@ -4,6 +4,7 @@ datePublished: Tue Apr 25 2023 03:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clgvpm5xo0ffs72nve22468fi
 slug: why-is-it-important-to-understand-timeseries-in-algo-trading
 canonical: https://www.cafeio.xyz/why-is-it-important-to-understand-timeseries-in-algo-trading/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/BXOXnQ26B7o/upload/c5776e99ae447a8f4fa43673bc37a36a.jpeg
 tags: algotrading, algo-trading, stock-market-for-beginners, financial-engineering
 
 ---
