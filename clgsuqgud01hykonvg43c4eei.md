@@ -1,9 +1,12 @@
 ---
 title: "Architecture Patterns?"
+seoTitle: "Optimized Architecture Design Patterns"
+seoDescription: "Explore architecture patterns for reusable solutions, improving software design consistency, maintainability, and scalability"
 datePublished: Sun Apr 23 2023 03:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clgsuqgud01hykonvg43c4eei
 slug: architecture-patterns
 canonical: https://www.cafeio.xyz/architecture-patterns/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/tYVkjjMYFBo/upload/5735891720d1ad500c48062e7dfb6570.jpeg
 tags: software-architecture, software-engineering
 
 ---
