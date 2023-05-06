@@ -1,5 +1,6 @@
 ---
 title: "Unlocking The Secrets of Algo Trading: Learn How to Use Python for Getting Data and Strategies…!!"
+seoDescription: "Master algo trading with Python: access market data, analyze trends, and develop strategies using Yahoo Finance, moving averages, and Bollinger bands"
 datePublished: Tue May 02 2023 03:30:41 GMT+0000 (Coordinated Universal Time)
 cuid: clh5pp6o909txcgnve2fsbcdn
 slug: unlocking-the-secrets-of-algo-trading-learn-how-to-use-python-for-getting-data-and-strategies
