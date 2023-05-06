@@ -1,5 +1,6 @@
 ---
 title: "Deep Dive into Architecture Patterns, Part 1"
+seoDescription: "Guide to architecture patterns for software systems, covering functional and non-functional requirements for optimal selection"
 datePublished: Sun Apr 30 2023 03:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clh2utf3f050gignv8llncrcq
 slug: deep-dive-into-architecture-patterns-part-1
