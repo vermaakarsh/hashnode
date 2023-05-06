@@ -4,6 +4,7 @@ datePublished: Sun Apr 30 2023 03:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clh2utf3f050gignv8llncrcq
 slug: deep-dive-into-architecture-patterns-part-1
 canonical: https://www.cafeio.xyz/deep-dive-into-architecture-patterns-part-1/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SQ9GJ6vkuOM/upload/a4e632d5edb646df48ff96f411215bdb.jpeg
 tags: software-architecture, system-design
 
 ---
