@@ -4,6 +4,7 @@ datePublished: Tue May 02 2023 03:30:41 GMT+0000 (Coordinated Universal Time)
 cuid: clh5pp6o909txcgnve2fsbcdn
 slug: unlocking-the-secrets-of-algo-trading-learn-how-to-use-python-for-getting-data-and-strategies
 canonical: https://www.cafeio.xyz/unlocking-the-secrets-of-algo-trading-learn-how-to-use-python-for-getting-data-and-strategies/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fiXLQXAhCfk/upload/87078f85d4d84642791054d8a3cc4447.jpeg
 tags: python, algotrading, stockmarket, financial-engineering
 
 ---
