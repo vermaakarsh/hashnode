@@ -1,5 +1,6 @@
 ---
 title: "Algorithmic Trading : An Introduction"
+seoDescription: "Discover algo trading: automated, precise trades with Python. Learn tickers, orders, analysis, and strategies for emotion-free trading"
 datePublished: Sun Feb 12 2023 09:55:51 GMT+0000 (Coordinated Universal Time)
 cuid: cle17o7bo000208l6d1na9nan
 slug: algorithmic-trading-an-introduction
