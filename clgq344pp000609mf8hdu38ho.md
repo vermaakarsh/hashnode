@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Kubernetes: A Beginner's Guide"
+seoDescription: "Beginner's guide to efficiently manage, scale, and secure cloud-native apps with Kubernetes orchestration, architecture, and deployment"
 datePublished: Fri Apr 21 2023 05:01:55 GMT+0000 (Coordinated Universal Time)
 cuid: clgq344pp000609mf8hdu38ho
 slug: introduction-to-kubernetes-a-beginners-guide
