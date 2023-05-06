@@ -1,5 +1,7 @@
 ---
 title: "Why is it Important to understand TimeSeries in Algo Trading?"
+seoTitle: "Importance of TimeSeries in Algo Trading"
+seoDescription: "Time series analysis helps algo trading by forecasting trends, understanding market behavior, and guiding investment decisions with Golden Crossover a..."
 datePublished: Tue Apr 25 2023 03:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clgvpm5xo0ffs72nve22468fi
 slug: why-is-it-important-to-understand-timeseries-in-algo-trading
