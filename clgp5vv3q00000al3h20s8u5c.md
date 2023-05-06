@@ -1,9 +1,11 @@
 ---
 title: "Why should you draw Software Architectures?"
+seoDescription: "Optimize Architecture Drawing: Enhance understanding, evaluate change, maintain stability, and improve communication with effective diagrams and pract..."
 datePublished: Thu Apr 20 2023 13:31:42 GMT+0000 (Coordinated Universal Time)
 cuid: clgp5vv3q00000al3h20s8u5c
 slug: why-should-you-draw-software-architectures
 canonical: https://www.cafeio.xyz/why-should-you-draw-software-architectures/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pvMVecxVoW0/upload/d49ae453dae1d39dde6ebe522d9c585c.jpeg
 tags: software-architecture
 
 ---
