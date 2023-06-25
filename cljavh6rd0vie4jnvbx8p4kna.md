@@ -5,7 +5,7 @@ datePublished: Sun Jun 25 2023 03:30:42 GMT+0000 (Coordinated Universal Time)
 cuid: cljavh6rd0vie4jnvbx8p4kna
 slug: the-essence-of-time-series-analysis-for-trading-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0hgiQQEi4ic/upload/8ba124b5138737485386392df15ef6b7.jpeg
-tags: trading, algotrading, stock-market-analysis
+tags: trading, 2articles1week, 2articles1week-1, algotrading, stock-market-analysis
 
 ---
 
